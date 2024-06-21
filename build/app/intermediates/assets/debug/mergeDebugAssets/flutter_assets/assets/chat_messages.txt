@@ -1,0 +1,13 @@
+[
+  {"id":1,"text":"Hello","sender":"User","receiver":"Maciej","timestamp":"2023-05-01T14:30:00.000Z"},
+  {"id":2,"text":"Hey, how are you?","sender":"Maciej","receiver":"User","timestamp":"2023-05-01T14:31:00.000Z"},
+  {"id":3,"text":"Hey","sender":"DualShockLegend","receiver":"User","timestamp":"2023-04-21T12:12:00.000Z"},
+  {"id":4,"text":":)","sender":"User","receiver":"PlatinumTrophyKing","timestamp":"2023-05-11T09:31:00.000Z"},
+  {"id":5,"text":":)","sender":"PlatinumTrophyKing","receiver":"User","timestamp":"2023-05-11T22:22:00.000Z"},
+  {"id":6,"text":"Hello, how are you?","sender":"User","receiver":"KratosGamer23","timestamp":"2023-05-09T14:29:00.000Z"},
+  {"id":7,"text":"Hey","sender":"RatchetAndNinja77","receiver":"User","timestamp":"2023-05-06T15:51:00.000Z"},
+  {"id":8,"text":"I'm good thanks","sender":"User","receiver":"Maciej","timestamp":"2023-05-01T16:03:00.000Z"},
+  {"id":9,"text":"How are you?","sender":"User","receiver":"Maciej","timestamp":"2023-05-01T16:04:00.000Z"},
+  {"id":10,"text":"Fine","sender":"Maciej","receiver":"User","timestamp":"2023-05-02T01:00:00.000Z"}
+ 
+]
